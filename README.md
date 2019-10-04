@@ -14,6 +14,40 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+<tr>
+    <th colspan="7" bgcolor="BurlyWood" >我的个人简历</th>
+</tr>
+
+<tr>
+    <th bgcolor="BurlyWood">姓名:</th>
+    <td> 陈爱玲</td>
+    <th bgcolor="BurlyWood">年龄:</th>
+    <td>19</td>
+    <th bgcolor="BurlyWood">民族:</th>
+    <td>汉</td>
+  </tr>
+  <tr>
+    <th bgcolor="BurlyWood">出生日期:</th>
+    <td>19970000</td>
+    <th bgcolor="BurlyWood">政治面貌:</th>
+    <td>团员</td>
+    <th bgcolor="BurlyWood">学历:</th>
+    <td>专科</td>
+</tr>
+<tr>
+    <th bgcolor="BurlyWood">专业:</th>
+    <td>移动应用</td>
+    <th bgcolor="BurlyWood">毕业学校:</th>
+    <td>乐山职业技术学院</td>
+  </tr>
+  <tr>
+     <th bgcolor="BurlyWood">爱好:</th>
+     <td>唱歌</td>
+     <th bgcolor="BurlyWood">籍贯:</th>
+     <td>四川成都</td>
+     <th bgcolor="BurlyWood">邮箱:</th>
+     <td colspan="2"p><a ></a></p></td>
+</tr>
 
 - Bulleted
 - List
